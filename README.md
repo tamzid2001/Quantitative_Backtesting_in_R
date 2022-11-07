@@ -17,5 +17,5 @@ data source - dukascopy
 ![alt text](https://github.com/tamzid2001/Quantitative_Backtesting_in_R/blob/main/buy_angle_distribution_5min.png)
 
 15 MIN Distribution on Theta
-![alt text](https://github.com/tamzid2001/Quantitative_Backtesting_in_R/blob/main/buy_angle_distribution_15min.png)
+![alt text](https://github.com/tamzid2001/Quantitative_Backtesting_in_R/blob/main/buy_angle_distrubution_15min.png)
 
