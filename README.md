@@ -12,3 +12,5 @@ data source - dukascopy
 - ml.r -> incorporate machine learning
 - mcmc_test.r -> apply marcov chain monte carlo for presentation
 
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
