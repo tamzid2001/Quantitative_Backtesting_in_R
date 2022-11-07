@@ -12,5 +12,10 @@ data source - dukascopy
 - ml.r -> incorporate machine learning
 - mcmc_test.r -> apply marcov chain monte carlo for presentation
 
+5 MIN Distrubution on Theta
+
 ![alt text](https://github.com/tamzid2001/Quantitative_Backtesting_in_R/blob/main/buy_angle_distribution_5min.png)
+
+15 MIN Distribution on Theta
+![alt text](https://github.com/tamzid2001/Quantitative_Backtesting_in_R/blob/main/buy_angle_distribution_15min.png)
 
