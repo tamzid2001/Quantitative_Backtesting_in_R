@@ -7,9 +7,6 @@ data source - dukascopy
 - helpers.r -> sugesseted helper functions
 - signals.r -> establish trading signals
 - backtest.r -> backtest signals on the 1_min timeframe (tick data also available on dukascopy), plot results
-
-- neuralnet.r -> incorpoate neuralnet, neural net implementations onto signals for further use
-- ml.r -> incorporate machine learning
 - mcmc_test.r -> apply marcov chain monte carlo for presentation
 
 5 MIN Distrubution on Theta
