@@ -1,3 +1,4 @@
+e <- 2.71828
 #store fractals high
 generateFractalsUp <- function(timeframe) {
     fractal_up <- as.data.frame(matrix(nrow = nrow(data[[timeframe]]), ncol = 5))
