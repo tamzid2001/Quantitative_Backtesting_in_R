@@ -4,7 +4,7 @@ generateBuySignals <- function(timeframe) {
     colnames(buy_signals) <- columns
     l <- nrow(data[[timeframe]]) - 4
     for (i in l:10) {
-        # print(sma9_data[[timeframe]]$SMA[[i]] > sma9_data[[timeframe]]$SMA[[i + 1]])
+        # section intentionally left blank
     }
     f <- function(x) as.POSIXct(as_datetime(x, origin = lubridate::origin, tz="UTC"))
     # print(f(1632686400))
@@ -26,7 +26,7 @@ generateSellSignals <- function(timeframe) {
     sell_signals <- data.frame(matrix(nrow = nrow(data[[timeframe]]), ncol = length(columns)))
     colnames(sell_signals) <- columns
     for (i in 2:length(data[timeframe])){
-
+        # section intentionally left blank
     }
 
     bf <- na.omit(sell_signals)
