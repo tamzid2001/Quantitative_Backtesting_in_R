@@ -1,3 +1,4 @@
+#excerpt from blogpost (needs work)
 # load packages
 library(quantmod)
 
